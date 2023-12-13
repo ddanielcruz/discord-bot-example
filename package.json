@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "start": "tsx src/main.ts",
+    "start:messaging": "tsx src/messaging.ts",
     "deploy": "tsx src/deploy.ts"
   },
   "dependencies": {
