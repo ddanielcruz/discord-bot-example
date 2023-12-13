@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "start": "tsx src/main.ts"
+    "start": "tsx src/main.ts",
+    "deploy": "tsx src/deploy.ts"
   },
   "dependencies": {
     "discord.js": "^14.14.1",
